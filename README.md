@@ -1,7 +1,7 @@
 # Instruction
 - This repository is totally based on JackWzh work (https://github.com/JackWzh/nuaathesis). 
-- The reason that I did not fork the original repository is that the originial repository miss some files
-- I following JackWzh's instruction downloaded new files and upload into a new repository for personal use.
+- The reason that I did not fork the original repository is that some files are missed in the originial repository
+- I following JackWzh's instruction downloaded new files and uploaded into a new repository for personal use.
 - If you fork the new repository, please make a clear statement that this Latex-template  was built by JackWzh and redirect the link to https://github.com/JackWzh/nuaathesis
 
 
